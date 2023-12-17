@@ -1,0 +1,9 @@
+
+npm init -y
+
+npm install typescript --save-dev
+
+npm i -D @types/node
+
+
+npx ts-node --esm ./src/test1.ts
